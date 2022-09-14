@@ -17,6 +17,8 @@ Hi 👋, I've been running web projects since 2014. I've been in development sin
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=3776AB)
 ![WordPress](https://img.shields.io/badge/-WordPress-090909?style=for-the-badge&logo=WordPress&logoColor=ececec)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamEvgen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Socials:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/iam_evgen)
 [![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=Twitter&logoColor=1C9DEB)](https://twitter.com/iam_evgen)
