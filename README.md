@@ -2,7 +2,7 @@
 
 ### Portfolio:
 
-[iamevgen.ru](https://iamevgen.ru)
+[![Telegram](https://img.shields.io/badge/-logo-090909?style=for-the-badge&logo=logo&logoColor=27A0D9)](https://iamevgen.ru)
 
 ### Languages and Tools:
 <h3 align="left">Languages and Tools:</h3>
