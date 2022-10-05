@@ -7,10 +7,11 @@ Hi 👋, I've been running web projects since 2014. I've been in development sin
 
 ### Languages and Tools:
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=HTML5&logoColor=1572B6)
+![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=61DAFB)
 ![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=Webpack&logoColor=8DD6F9)
+![Saas](https://img.shields.io/badge/-Sass-090909?style=for-the-badge&logo=Sass&logoColor=CC6699)
 ![npm](https://img.shields.io/badge/-npm-090909?style=for-the-badge&logo=npm&logoColor=CB3837)
 ![Jest](https://img.shields.io/badge/-Jest-090909?style=for-the-badge&logo=Jest&logoColor=C21325)
 ![Firebase](https://img.shields.io/badge/-Firebase-090909?style=for-the-badge&logo=Firebase&logoColor=FFCA28)
