@@ -1,6 +1,6 @@
 [![Header](https://github.com/iamEvgen/iamEvgen/blob/main/assets/space-name.jpg)](https://iamevgen.ru/)
 
-Hi 👋, I've been running web projects since 2014. I've been in development since 2020. Right now my goal is frontend technology.
+Hi 👋, I've been running web projects since 2014. I've been in development since 2020. Right now my goal is frontend technologies.
 
 ### Portfolio:
 [![iamEvgen](https://img.shields.io/badge/-iamevgen.ru-090909?style=for-the-badge&logo=logo&logoColor=27A0D9)](https://iamevgen.ru)
