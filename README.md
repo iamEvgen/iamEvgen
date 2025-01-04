@@ -1,5 +1,3 @@
-[![Header](https://github.com/iamEvgen/iamEvgen/blob/main/assets/space-name.jpg)](https://iamevgen.ru/)
-
 Hi 👋, I've been running web projects since 2014. I've been in development since 2020. Right now my goal is frontend technologies.
 
 ### Languages and Tools:
