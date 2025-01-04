@@ -2,9 +2,6 @@
 
 Hi 👋, I've been running web projects since 2014. I've been in development since 2020. Right now my goal is frontend technologies.
 
-### Portfolio:
-[![iamEvgen](https://img.shields.io/badge/-iamevgen.ru-090909?style=for-the-badge&logo=logo&logoColor=27A0D9)](https://iamevgen.ru)
-
 ### Languages and Tools:
 ![HTML5](https://img.shields.io/badge/-HTML5-090909?style=for-the-badge&logo=HTML5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-090909?style=for-the-badge&logo=CSS3&logoColor=1572B6)
